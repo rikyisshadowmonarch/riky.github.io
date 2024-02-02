@@ -1,0 +1,14 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: aqua;
+}
+#about {
+  padding-top: 5rem;
+}
+#project {
+  background-color: aqua;
+  padding-top: 5rem;
+}
+#contact {
+  padding-top: 5rem;
+}
